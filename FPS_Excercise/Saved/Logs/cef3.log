@@ -1,0 +1,29 @@
+[33012:23824:0116/130916.167:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[33012:38468:0116/130916.197:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[33012:23824:0116/130916.205:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[35372:36796:0116/130924.811:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-318FBB737E53CE690F658EEE317CE691 will be ignored
+[33012:39620:0116/130926.546:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[33012:23824:0116/130926.875:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[33012:23824:0116/130926.875:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[33012:23824:0116/130926.875:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[33012:23824:0116/130926.875:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[33012:39620:0116/130926.882:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[1092:4876:0116/131137.118:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[33012:23824:0116/133025.431:ERROR:device_event_log_impl.cc(196)] [13:30:25.417] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33012:23824:0116/160640.145:ERROR:device_event_log_impl.cc(196)] [16:06:40.131] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[34768:7604:0117/041038.924:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[33012:39636:0117/041038.930:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[34768:7604:0117/041038.965:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[33012:38468:0117/041038.973:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[33012:39636:0117/095611.634:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[34768:30436:0117/095611.712:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[34768:7604:0117/095612.236:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[33012:38468:0117/095612.243:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[33012:38468:0117/142148.973:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[34768:30436:0117/142148.975:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[33012:38468:0117/154726.477:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[33012:38468:0117/154727.311:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[34768:7604:0117/154727.314:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[33012:38468:0117/154727.346:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[34768:7604:0117/154727.352:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[33012:23824:0117/155538.597:ERROR:device_event_log_impl.cc(196)] [15:55:38.469] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
